@@ -1,0 +1,308 @@
+{
+  "ogniska": [
+    {
+      "id": "OG000000410",
+      "type": "Ogniska",
+      "attributes": {
+        "fazaOgniska": "WYGASZONE",
+        "typSrodowiska": "INNY",
+        "nazwaOgniska": "test1",
+        "adres": {
+          "teryt": {
+            "terc": "0204013",
+            "simc": "0954449",
+            "ulic": "48681"
+          },
+          "woj": "DOLNOŚLĄSKIE",
+          "powiat": "test",
+          "gmina": "test",
+          "miejscowosc": "test",
+          "kodPocztowy": "00-000",
+          "ulica": "al. testowa",
+          "nrDomu": "1",
+          "nrLokalu": "1"
+        },
+        "liczbaChorych": 10,
+        "idJednostkiPis": 6,
+        "osobaProwadzaca": {
+          "imie": "Jan",
+          "nazwisko": "Kowalski",
+          "login": "test1",
+          "idJednostkiPis": 6
+        },
+        "dataUtworzenia": "2023-02-23T12:09:54.888891+01:00"
+      }
+    },
+    {
+      "id": "OG000000410",
+      "type": "Ogniska",
+      "attributes": {
+        "fazaOgniska": "WYGASZONE",
+        "typSrodowiska": "INNY",
+        "nazwaOgniska": "test1",
+        "adres": {
+          "teryt": {
+            "terc": "0204013",
+            "simc": "0954449",
+            "ulic": "48681"
+          },
+          "woj": "DOLNOŚLĄSKIE",
+          "powiat": "test",
+          "gmina": "test",
+          "miejscowosc": "test",
+          "kodPocztowy": "00-000",
+          "ulica": "al. testowa",
+          "nrDomu": "1",
+          "nrLokalu": "1"
+        },
+        "liczbaChorych": 10,
+        "idJednostkiPis": 6,
+        "osobaProwadzaca": {
+          "imie": "Jan",
+          "nazwisko": "Kowalski",
+          "login": "test1",
+          "idJednostkiPis": 6
+        },
+        "dataUtworzenia": "2023-02-23T12:09:54.888891+01:00"
+      }
+    },
+    {
+      "id": "OG000000410",
+      "type": "Ogniska",
+      "attributes": {
+        "fazaOgniska": "WYGASZONE",
+        "typSrodowiska": "INNY",
+        "nazwaOgniska": "test1",
+        "adres": {
+          "teryt": {
+            "terc": "0204013",
+            "simc": "0954449",
+            "ulic": "48681"
+          },
+          "woj": "DOLNOŚLĄSKIE",
+          "powiat": "test",
+          "gmina": "test",
+          "miejscowosc": "test",
+          "kodPocztowy": "00-000",
+          "ulica": "al. testowa",
+          "nrDomu": "1",
+          "nrLokalu": "1"
+        },
+        "liczbaChorych": 10,
+        "idJednostkiPis": 6,
+        "osobaProwadzaca": {
+          "imie": "Jan",
+          "nazwisko": "Kowalski",
+          "login": "test1",
+          "idJednostkiPis": 6
+        },
+        "dataUtworzenia": "2023-02-23T12:09:54.888891+01:00"
+      }
+    },
+    {
+      "id": "OG000000410",
+      "type": "Ogniska",
+      "attributes": {
+        "fazaOgniska": "WYGASZONE",
+        "typSrodowiska": "INNY",
+        "nazwaOgniska": "test1",
+        "adres": {
+          "teryt": {
+            "terc": "0204013",
+            "simc": "0954449",
+            "ulic": "48681"
+          },
+          "woj": "DOLNOŚLĄSKIE",
+          "powiat": "test",
+          "gmina": "test",
+          "miejscowosc": "test",
+          "kodPocztowy": "00-000",
+          "ulica": "al. testowa",
+          "nrDomu": "1",
+          "nrLokalu": "1"
+        },
+        "liczbaChorych": 10,
+        "idJednostkiPis": 6,
+        "osobaProwadzaca": {
+          "imie": "Jan",
+          "nazwisko": "Kowalski",
+          "login": "test1",
+          "idJednostkiPis": 6
+        },
+        "dataUtworzenia": "2023-02-23T12:09:54.888891+01:00"
+      }
+    },
+    {
+      "id": "OG000000410",
+      "type": "Ogniska",
+      "attributes": {
+        "fazaOgniska": "WYGASZONE",
+        "typSrodowiska": "INNY",
+        "nazwaOgniska": "test1",
+        "adres": {
+          "teryt": {
+            "terc": "0204013",
+            "simc": "0954449",
+            "ulic": "48681"
+          },
+          "woj": "DOLNOŚLĄSKIE",
+          "powiat": "test",
+          "gmina": "test",
+          "miejscowosc": "test",
+          "kodPocztowy": "00-000",
+          "ulica": "al. testowa",
+          "nrDomu": "1",
+          "nrLokalu": "1"
+        },
+        "liczbaChorych": 10,
+        "idJednostkiPis": 6,
+        "osobaProwadzaca": {
+          "imie": "Jan",
+          "nazwisko": "Kowalski",
+          "login": "test1",
+          "idJednostkiPis": 6
+        },
+        "dataUtworzenia": "2023-02-23T12:09:54.888891+01:00"
+      }
+    },
+    {
+      "id": "OG000000410",
+      "type": "Ogniska",
+      "attributes": {
+        "fazaOgniska": "WYGASZONE",
+        "typSrodowiska": "INNY",
+        "nazwaOgniska": "test1",
+        "adres": {
+          "teryt": {
+            "terc": "0204013",
+            "simc": "0954449",
+            "ulic": "48681"
+          },
+          "woj": "DOLNOŚLĄSKIE",
+          "powiat": "test",
+          "gmina": "test",
+          "miejscowosc": "test",
+          "kodPocztowy": "00-000",
+          "ulica": "al. testowa",
+          "nrDomu": "1",
+          "nrLokalu": "1"
+        },
+        "liczbaChorych": 10,
+        "idJednostkiPis": 6,
+        "osobaProwadzaca": {
+          "imie": "Jan",
+          "nazwisko": "Kowalski",
+          "login": "test1",
+          "idJednostkiPis": 6
+        },
+        "dataUtworzenia": "2023-02-23T12:09:54.888891+01:00"
+      }
+    },
+    {
+      "id": "OG000000410",
+      "type": "Ogniska",
+      "attributes": {
+        "fazaOgniska": "WYGASZONE",
+        "typSrodowiska": "INNY",
+        "nazwaOgniska": "test1",
+        "adres": {
+          "teryt": {
+            "terc": "0204013",
+            "simc": "0954449",
+            "ulic": "48681"
+          },
+          "woj": "DOLNOŚLĄSKIE",
+          "powiat": "test",
+          "gmina": "test",
+          "miejscowosc": "test",
+          "kodPocztowy": "00-000",
+          "ulica": "al. testowa",
+          "nrDomu": "1",
+          "nrLokalu": "1"
+        },
+        "liczbaChorych": 10,
+        "idJednostkiPis": 6,
+        "osobaProwadzaca": {
+          "imie": "Jan",
+          "nazwisko": "Kowalski",
+          "login": "test1",
+          "idJednostkiPis": 6
+        },
+        "dataUtworzenia": "2023-02-23T12:09:54.888891+01:00"
+      }
+    },
+    {
+      "id": "OG000000410",
+      "type": "Ogniska",
+      "attributes": {
+        "fazaOgniska": "WYGASZONE",
+        "typSrodowiska": "INNY",
+        "nazwaOgniska": "test1",
+        "adres": {
+          "teryt": {
+            "terc": "0204013",
+            "simc": "0954449",
+            "ulic": "48681"
+          },
+          "woj": "DOLNOŚLĄSKIE",
+          "powiat": "test",
+          "gmina": "test",
+          "miejscowosc": "test",
+          "kodPocztowy": "00-000",
+          "ulica": "al. testowa",
+          "nrDomu": "1",
+          "nrLokalu": "1"
+        },
+        "liczbaChorych": 10,
+        "idJednostkiPis": 6,
+        "osobaProwadzaca": {
+          "imie": "Jan",
+          "nazwisko": "Kowalski",
+          "login": "test1",
+          "idJednostkiPis": 6
+        },
+        "dataUtworzenia": "2023-02-23T12:09:54.888891+01:00"
+      }
+    },
+    {
+      "id": "OG000000410",
+      "type": "Ogniska",
+      "attributes": {
+        "fazaOgniska": "WYGASZONE",
+        "typSrodowiska": "INNY",
+        "nazwaOgniska": "test1",
+        "adres": {
+          "teryt": {
+            "terc": "0204013",
+            "simc": "0954449",
+            "ulic": "48681"
+          },
+          "woj": "DOLNOŚLĄSKIE",
+          "powiat": "test",
+          "gmina": "test",
+          "miejscowosc": "test",
+          "kodPocztowy": "00-000",
+          "ulica": "al. testowa",
+          "nrDomu": "1",
+          "nrLokalu": "1"
+        },
+        "liczbaChorych": 10,
+        "idJednostkiPis": 6,
+        "osobaProwadzaca": {
+          "imie": "Jan",
+          "nazwisko": "Kowalski",
+          "login": "test1",
+          "idJednostkiPis": 6
+        },
+        "dataUtworzenia": "2023-02-23T12:09:54.888891+01:00"
+      }
+    }
+  ],
+  "meta": {
+    "version": 1,
+    "rozwojowe": 19,
+    "stabilne": 4,
+    "liczbaStron": 1,
+    "liczbaRekordow": 10
+  }
+}
